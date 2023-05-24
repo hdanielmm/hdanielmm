@@ -2,7 +2,7 @@
 
 <hr />
   <a href="mailto:hdanielmm@gmail.com">
-    <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icon@v3/icons/gmail.svg" />
+    <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
   </a>
   
   <br/>
@@ -23,7 +23,6 @@
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hdanielmm&show_icons=true&thme=gradient&include_all_commits=true&count_private=true"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hdanielmm&layout=compact&langs_count=7&theme=gradient"/>
 </div>
-  
   
 ## ⚡ Technologies I love and use
   
