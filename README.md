@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, I'm Daniel Marín 👋
 
 <!--
 **hdanielmm/hdanielmm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🔭 I’m currently working on Stefanini Group with Spring Boot and Angular
+- 🌱 I’m currently learning how to become a backend developer with Python and FastAPI
+- 👯 I’m looking to collaborate on projects with python
+- 📫 How to reach me: [linkedin](https://www.linkedin.com/in/danielmarin-87172596/)
